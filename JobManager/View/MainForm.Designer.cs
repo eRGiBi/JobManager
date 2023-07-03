@@ -85,7 +85,8 @@
             // 
             // openFileDialog
             // 
-            openFileDialog.FileName = "openFileDialog";
+            openFileDialog.FileName = "adatok.txt";
+            openFileDialog.InitialDirectory = "..\\JobManager\\JobManager\\Data\\";
             // 
             // MainForm
             // 
