@@ -50,7 +50,7 @@ namespace S5BEO.View
         {
 
             if (MessageBox.Show(
-                "Exit witout finallizing?",
+                "Exit without finalizing?",
                 "Order not saved!",
                 MessageBoxButtons.YesNo) != DialogResult.Yes)
             {
